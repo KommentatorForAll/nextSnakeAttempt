@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nextSnakeAttempt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nextSnakeAttempt_jar</output-path>
+    <root id="archive" name="nextSnakeAttempt.jar">
+      <element id="module-output" name="nextSnakeAttempt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../programming_stuff/own_engines/Gfe/out/artifacts/Gfe_jar/Gfe.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
